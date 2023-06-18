@@ -1,11 +1,11 @@
-Stap 1: downloaden
+(Stap 1: downloaden)
 Download de zip: dataprocessing van github en pak deze uit                          
 Zoek Xampp op internet op, download en installeer Xampp                                       
 Zoek composer op internet op, download en installeer composer                                     
 Zoek node.js op internet op, download en installeer node.js					    
 Herstart pc
 
-Stap 2: bestanden
+(Stap 2: bestanden)
 Open xampp en start Apache en MySQL
 Open de admin panel van MySQL
 Maak een nieuwe database aan genaamd world, in de admin panel van MySQL
@@ -41,5 +41,5 @@ Kopieer de components map, app.vue en main.js vanuit de gedownloade github map e
 
 Voer het commando npm run dev uit in C:/xampp/htdocs/Dataprocessing/vue/vcountrys
 
-Stap 3:
+(Stap 3:)
 Navigeer in de browser naar localhost:8080
